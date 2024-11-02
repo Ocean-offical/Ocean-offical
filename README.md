@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a passionate developer, it's fun to work on new code every day. You can see what I work with under "🔧 Languages ​​& Tools".
+Hello, I'm Ocean, I'm a new developer and I want to practice a lot. I'll be happy if you walk the journey with me.
 
 ### 🔧 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
